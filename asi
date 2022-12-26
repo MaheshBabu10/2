@@ -1,14 +1,14 @@
 #!/bin/bash
                   ####################################################################################################
-                  #                                           ASI Version 5.0                                        #
+                  #                                           ASI Version 7.0                                        #
                   # Written for Delhivery for the more details contact Abhishek Gohil(Surat)                         #
                   # If you find a bug, please notify us via the email address provided below.                        #
-				  # it.abhishek94@gmail.com  / 7202000828                                            #
-                  # giving proper credit to Abhishek Gohil from Delhivery IT Team                                    #
+		  # Mahesh Mourya, Rakesh Sonvanae, Abhishek Gohil .abhishek94@gmail.com  / 7202000828               #
+                  # giving proper credit to WEST Delhivery IT Team                     		                     #
                   #                                       "Thank You..."                                             #
                   ####################################################################################################
 
-#Abhishek Gohil Mo. 7202000828, Emial : abhigohil94@gmail.com 
+# Mahesh Mourya - 8460272506 , Rakesh Sonavane - 9513912161, Abhishek Gohil Mo. 7202000828, Email : abhigohil94@gmail.com 
 
 #echo  -e "\e[3;43m***Software is being developed—I'm working on it in my spare time, so please wait for the next update***\e[0m"
 export PS1="\[\e[31m\][\[\e[m\]\[\e[38;5;172m\]\u\[\e[m\]@\[\e[38;5;153m\]\h\[\e[m\] \[\e[38;5;214m\]\W\[\e[m\]\[\e[31m\]]\[\e[m\]\\$ "
