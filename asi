@@ -8,7 +8,7 @@
                   #                                       "Thank You..."                                             #
                   ####################################################################################################
 
-# Mahesh Mourya - 8460272506 , Rakesh Sonavane - 9513912161, Abhishek Gohil Mo. 7202000828, Email : abhigohil94@gmail.com 
+# Mahesh Mourya - 8460272506 ,Mubassirkhan, Rakesh Sonavane - 9513912161, Abhishek Gohil Mo. 7202000828, Email : abhigohil94@gmail.com 
 
 #echo  -e "\e[3;43m***Software is being developed—I'm working on it in my spare time, so please wait for the next update***\e[0m"
 export PS1="\[\e[31m\][\[\e[m\]\[\e[38;5;172m\]\u\[\e[m\]@\[\e[38;5;153m\]\h\[\e[m\] \[\e[38;5;214m\]\W\[\e[m\]\[\e[31m\]]\[\e[m\]\\$ "
